@@ -1,0 +1,46 @@
+PlayerCardTypeId,CardTypeGroup,PlayerCardTypeInternalName,PlayerCardTypeName,ImageURL
+1,Gold,Gold,Gold Rare,rare_gold.png
+2,Gold,GoldNR,Gold Non Rare,non_rare_gold.png
+3,NULL,GoldIF,Gold IF,totw_gold.png
+4,Silver,Silver,Silver Rare,rare_silver.png
+5,Silver,SilverNR,Silver Non Rare,non_rare_silver.png
+6,NULL,SilverIF,Silver IF,totw_silver.png
+7,Bronze,Bronze,Bronze Rare,rare_bronze.png
+8,Bronze,BronzeNR,Bronze Non Rare,non_rare_bronze.png
+9,NULL,BronzeIF,Bronze IF,totw_bronze.png
+10,Icon,Icon,Icon,icon.png
+19,POTM,POTM,Player of the Month,potm.png
+35,NULL,LIBERTADORES,Liberatadores,libertadores.png
+37,NULL,UCLHeroes,Champions League Heroes,ucl_heroes.png
+38,NULL,FUTHeroes,FUT Heroes,fut_heroes.png
+46,NULL,NIKEMADREADY,Nike Mad Ready,nike_mad_ready.png
+47,NULL,LIBERTADORESMOTM,Libertadores MOTM,libertadores_motm.png
+51,NULL,Sudamericana,Sudamericana,sudamericana.png
+52,NULL,SudamericanaMOTM,Sudamericana MOTM,sudamericana_motm.png
+54,NULL,SquadFoundations,Squad Foundations,squad_foundations.png
+55,SBC,Flashback,SBC Flashback,flashback.png
+56,NULL,SeasonReward,Season Reward,season_reward.png
+57,POTM,Bun.POTM,Bundesliga POTM,b_potm.png
+58,RTTK,UCL LIVE,Champions League Live,ucl_live.png
+59,RTTK,UEL LIVE,Europa League Live,uel_live.png
+60,RTTK,ECL LIVE,Europe Conference Live,ecl_live.png
+61,NULL,UCLWOTM,UCL WOTM,ucl_wotm.png
+62,NULL,DynamicDuo,Dynamic Duo,dynamic_duo.png
+63,NULL,TrailBlazers,Trail Blazers,trail_blazers.png
+64,POTM,SerieAPOTM,Serie A POTM,potm_seriea.png
+65,Centurion,FUTCenturion,FUT Centurion,fut_centurions.png
+66,Centurion,FUTCenturionII,FUT Centurion II,fut_centurions_ii.png
+67,Centurion,FUTCenturionIII,FUT Centurion III,fut_centurions_iii.png
+68,Centurion,FUTCenturionIcon,FUT Centurion Icon,fut_centurions_icon.png
+69,POTM,Ligue1Potm,Ligue 1 POTM,ligue1_potm.png
+70,Showdown,ShowdownSBC,Showdown SBC,fut_showdown.png
+71,POTM,EredivisiePOTM,Eredivisie POTM,potm_eredivisie.png
+72,POTM,LaLigaPOTM,La Liga POTM,la_liga_potm.png
+73,NULL,Storyline,Storyline,storyline.png
+74,TripleThreat,TripleThreat,Triple Threat,triple_threat.png
+75,TripleThreat,TripleThreatHero,Triple Threat Hero,triple_threat_hero.png
+76,TripleThreat,PunditPicks,Pundit Picks,pundit_picks.png
+77,Era,EndofanEra,End of an Era,end_of_an_era.png
+78,NULL,Moments,Player Moments,player_moments.png
+79,NULL,FCProLive,FC Pro,fc_pro.png
+89,NULL,Radioactive,RadioActive,radioactive.png
